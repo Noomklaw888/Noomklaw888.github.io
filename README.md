@@ -35,7 +35,11 @@
 </script>   
 <hr>
 <h2 id="g">games</h2>
-<a href="https://scratch.mit.edu/users/noomklaw/">A link to Some cool games.</a>    
+<a href="https://scratch.mit.edu/users/noomklaw/">A link to some cool games.</a>
+<p>Play some games here:</p>
+<iframe src="https://scratch.mit.edu/projects/1240330971/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://scratch.mit.edu/projects/964508011/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://scratch.mit.edu/projects/1193123667/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 <hr>
 <h2 id="f">fruits</h2>
 <p>Here is a list of fruits:</p>
