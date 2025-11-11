@@ -4,8 +4,8 @@
 <html lang="en">
 <title>Noomklaw.com</title>
 <h1>Welcome to Noomklaw's Base!</h1>
-<p">
-    This is my first page.</p>
+
+    <p>This is my first page.</p>
     <p>I am NOOMKLAW.</p>
     <a href="/pdf/Purple Cube Comic Bundle.pdf" download>
         <img src="/images/Screenshot 2024-07-22 at 9.44.21 PM" alt="TAOPC">
@@ -29,10 +29,8 @@
     <link rel="icon" type="image/x-icon" href="facivon.ico">
     <hr>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-</head>
 <body>
-
-</script>   
+   
 <hr>
 <h2 id="g">games</h2>
 <a href="https://scratch.mit.edu/users/noomklaw/">A link to some cool games.</a>
